@@ -2,3 +2,5 @@ sunday
 morning
 class
 time
+lunch 
+dinner
